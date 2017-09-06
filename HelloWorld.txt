@@ -1,1 +1,7 @@
 Hello World!
+<<<<<<< HEAD
+=======
+Try feature one.
+hahha.
+change here
+>>>>>>> feature/HelloWorld
